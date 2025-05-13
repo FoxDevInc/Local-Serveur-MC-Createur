@@ -19,7 +19,7 @@
 - Java JDK 17+ installe
 - Connexion Internet (premiere installation)
 - 2 Go d'espace disque minimum
-- Installer le server.jar copie colle ---> https://www.minecraft.net/en-us/download/server
+- Installer le server.jar  ---> https://www.minecraft.net/en-us/download/server
 *** INSTALLATION ***
 1. Telechargez 'Minecraft_Server_Manager.bat'
 2. Clic-droit > "Executer en tant qu'administrateur"
